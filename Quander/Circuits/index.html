@@ -6,13 +6,13 @@
     <title>Unity WebGL Player | QuantumCircuits</title>
   </head>
   <body style="text-align: center">
-    <canvas id="unity-canvas" width=1600 height=900 style="width: 1600px; height: 900px; background: #231F20"></canvas>
-    <script src="Build/Gates.loader.js"></script>
+    <canvas id="unity-canvas" width=1600 height=900 style="width: 90%; height: 50.62%; background: #231F20"></canvas>
+    <script src="Build/Circuits.loader.js"></script>
     <script>
       createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/Gates.data",
-        frameworkUrl: "Build/Gates.framework.js",
-        codeUrl: "Build/Gates.wasm",
+        dataUrl: "Build/Circuits.data",
+        frameworkUrl: "Build/Circuits.framework.js",
+        codeUrl: "Build/Circuits.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "QuantumCircuits",
