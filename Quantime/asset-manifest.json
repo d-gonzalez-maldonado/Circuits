@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.790ee16e.chunk.css",
+    "main.js": "./static/js/main.6fb6aba6.chunk.js",
+    "main.js.map": "./static/js/main.6fb6aba6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a025dc7d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a025dc7d.js.map",
+    "static/js/2.b3051d4f.chunk.js": "./static/js/2.b3051d4f.chunk.js",
+    "static/js/2.b3051d4f.chunk.js.map": "./static/js/2.b3051d4f.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.32042af17be94c342cb0e28bbf4b04c5.js": "./precache-manifest.32042af17be94c342cb0e28bbf4b04c5.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.790ee16e.chunk.css.map": "./static/css/main.790ee16e.chunk.css.map",
+    "static/js/2.b3051d4f.chunk.js.LICENSE.txt": "./static/js/2.b3051d4f.chunk.js.LICENSE.txt",
+    "static/media/0.png": "./static/media/0.698fbec4.png",
+    "static/media/1.png": "./static/media/1.ad1fca36.png",
+    "static/media/2.png": "./static/media/2.91ef1e6e.png",
+    "static/media/3.png": "./static/media/3.91ef1e6e.png",
+    "static/media/CircuitsGP.png": "./static/media/CircuitsGP.f7a6a38a.png",
+    "static/media/QueuebitsGP.png": "./static/media/QueuebitsGP.9c045538.png",
+    "static/media/QupcakesGP.png": "./static/media/QupcakesGP.327e0d89.png",
+    "static/media/QupcakesLogo.png": "./static/media/QupcakesLogo.85bdecea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a025dc7d.js",
+    "static/js/2.b3051d4f.chunk.js",
+    "static/css/main.790ee16e.chunk.css",
+    "static/js/main.6fb6aba6.chunk.js"
+  ]
+}
