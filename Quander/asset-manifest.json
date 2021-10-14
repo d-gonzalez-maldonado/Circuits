@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "./static/css/main.e8ff0741.chunk.css",
-    "main.js": "./static/js/main.361d8967.chunk.js",
-    "main.js.map": "./static/js/main.361d8967.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.dcf1aa31.js",
-    "runtime-main.js.map": "./static/js/runtime-main.dcf1aa31.js.map",
-    "static/js/2.5be4c976.chunk.js": "./static/js/2.5be4c976.chunk.js",
-    "static/js/2.5be4c976.chunk.js.map": "./static/js/2.5be4c976.chunk.js.map",
-    "static/js/3.91710487.chunk.js": "./static/js/3.91710487.chunk.js",
-    "static/js/3.91710487.chunk.js.map": "./static/js/3.91710487.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.e8ff0741.chunk.css.map": "./static/css/main.e8ff0741.chunk.css.map",
-    "static/js/2.5be4c976.chunk.js.LICENSE.txt": "./static/js/2.5be4c976.chunk.js.LICENSE.txt",
-    "static/media/Circuits.4061ed12.png": "./static/media/Circuits.4061ed12.png",
-    "static/media/Connect4.9f0c9c48.png": "./static/media/Connect4.9f0c9c48.png",
-    "static/media/Qupcakes.57048413.png": "./static/media/Qupcakes.57048413.png",
-    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.790ee16e.chunk.css",
+    "main.js": "/static/js/main.ef1d03ad.chunk.js",
+    "main.js.map": "/static/js/main.ef1d03ad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f4a40df2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f4a40df2.js.map",
+    "static/js/2.b3051d4f.chunk.js": "/static/js/2.b3051d4f.chunk.js",
+    "static/js/2.b3051d4f.chunk.js.map": "/static/js/2.b3051d4f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.129e148266ae79b297a2806270299f89.js": "/precache-manifest.129e148266ae79b297a2806270299f89.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.790ee16e.chunk.css.map": "/static/css/main.790ee16e.chunk.css.map",
+    "static/js/2.b3051d4f.chunk.js.LICENSE.txt": "/static/js/2.b3051d4f.chunk.js.LICENSE.txt",
+    "static/media/0.png": "/static/media/0.698fbec4.png",
+    "static/media/1.png": "/static/media/1.ad1fca36.png",
+    "static/media/2.png": "/static/media/2.91ef1e6e.png",
+    "static/media/3.png": "/static/media/3.91ef1e6e.png",
+    "static/media/CircuitsGP.png": "/static/media/CircuitsGP.f7a6a38a.png",
+    "static/media/QueuebitsGP.png": "/static/media/QueuebitsGP.9c045538.png",
+    "static/media/QupcakesGP.png": "/static/media/QupcakesGP.327e0d89.png",
+    "static/media/QupcakesLogo.png": "/static/media/QupcakesLogo.85bdecea.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcf1aa31.js",
-    "static/js/2.5be4c976.chunk.js",
-    "static/css/main.e8ff0741.chunk.css",
-    "static/js/main.361d8967.chunk.js"
+    "static/js/runtime-main.f4a40df2.js",
+    "static/js/2.b3051d4f.chunk.js",
+    "static/css/main.790ee16e.chunk.css",
+    "static/js/main.ef1d03ad.chunk.js"
   ]
 }
