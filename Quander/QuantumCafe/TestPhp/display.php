@@ -1,5 +1,5 @@
 <?php
-    $hostname = 'localhost';
+    $hostname = 'chord';
     $username = 'liutianle';
     $password = 'i4o0ks9izI';
     $database = 'highscores';
