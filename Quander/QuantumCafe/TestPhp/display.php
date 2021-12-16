@@ -1,4 +1,6 @@
 <?php
+    error_reporting(E_ALL);
+
     $hostname = 'chord';
     $username = 'liutianle';
     $password = 'i4o0ks9izI';
