@@ -3,10 +3,11 @@
     $username = 'liutianle';
     $password = 'i4o0ks9izI';
     $database = 'highscores';
+    $port = '3306';
      
     try 
     {
-        $dbh = new PDO('mysql:host='. $hostname .';dbname='. $database, 
+        $dbh = new PDO('mysql:host='. $hostname .';port='. $port.';dbname='. $database, 
              $username, $password);
     } 
     catch(PDOException $e) 
