@@ -1305,7 +1305,7 @@ function _emscripten_asm_const_ii(code, a0) {
  return ASM_CONSTS[code](a0);
 }
 STATIC_BASE = GLOBAL_BASE;
-STATICTOP = STATIC_BASE + 2438976;
+STATICTOP = STATIC_BASE + 2420240;
 __ATINIT__.push({
  func: (function() {
   __GLOBAL__sub_I_AIScriptingClasses_cpp();
@@ -3355,7 +3355,7 @@ __ATINIT__.push({
   ___emscripten_environ_constructor();
  })
 });
-var STATIC_BUMP = 2438976;
+var STATIC_BUMP = 2420240;
 Module["STATIC_BASE"] = STATIC_BASE;
 Module["STATIC_BUMP"] = STATIC_BUMP;
 var tempDoublePtr = STATICTOP;
@@ -3500,7 +3500,7 @@ function _JS_Sound_Init() {
   var resumeInterval = Module.setInterval(tryToResumeAudioContext, 400);
   WEBAudio.audioWebEnabled = 1;
  } catch (e) {
-  console.log("Web Audio API is not supported in this browser");
+  alert("Web Audio API is not supported in this browser");
  }
 }
 function _JS_Sound_Load(ptr, length) {
@@ -15251,8 +15251,8 @@ function nullFunc_vjji(x) {
  err("Build with ASSERTIONS=2 for more info.");
  abort(x);
 }
-Module["wasmTableSize"] = 48769;
-Module["wasmMaxTableSize"] = 48769;
+Module["wasmTableSize"] = 48257;
+Module["wasmMaxTableSize"] = 48257;
 function invoke_dddi(index, a1, a2, a3) {
  var sp = stackSave();
  try {
